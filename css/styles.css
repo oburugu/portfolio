@@ -3,7 +3,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-style: italic;
+  font-style: fantasy;
   text-align: center;
   color: teal;
 }
@@ -11,5 +11,5 @@ p {
   color: gray;
 }
 body {
-  background-color: skyblue;
+  background-color: purple;
 }
